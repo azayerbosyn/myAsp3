@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erbosyn75/Downloads/myAsp-master/myAsp/myAsp.csproj": {}
+    "/Users/erbosyn75/Downloads/myAsp/myAsp/myAsp.csproj": {}
   },
   "projects": {
-    "/Users/erbosyn75/Downloads/myAsp-master/myAsp/myAsp.csproj": {
+    "/Users/erbosyn75/Downloads/myAsp/myAsp/myAsp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erbosyn75/Downloads/myAsp-master/myAsp/myAsp.csproj",
+        "projectUniqueName": "/Users/erbosyn75/Downloads/myAsp/myAsp/myAsp.csproj",
         "projectName": "myAsp",
-        "projectPath": "/Users/erbosyn75/Downloads/myAsp-master/myAsp/myAsp.csproj",
+        "projectPath": "/Users/erbosyn75/Downloads/myAsp/myAsp/myAsp.csproj",
         "packagesPath": "/Users/erbosyn75/.nuget/packages/",
-        "outputPath": "/Users/erbosyn75/Downloads/myAsp-master/myAsp/obj/",
+        "outputPath": "/Users/erbosyn75/Downloads/myAsp/myAsp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
